@@ -37,8 +37,8 @@ $ sudo restart udev
 ## Usage
 
 ```
-$ git clone https://gitlab.com/Io.D-Embedded/STM32-Discovery
-$ cd "STM32-Discovery"/"Source Code"/
+$ git clone https://gitlab.com/open-source-applications/stm32-discovery
+$ cd "Source Code"/
 $ cd (choose one of the self-contained examples)
 $ make
 $ make program
@@ -46,7 +46,7 @@ $ make program
 
 ## License
 
-Copyright (c)  2014, 2015 Io. D
+Copyright (c)  2015, 2016 Io. D
 
 Permission is hereby granted, free of charge, to any person obtaining a
 copy of this software and associated documentation files (the "Software"),
